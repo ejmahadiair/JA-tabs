@@ -1,0 +1,17 @@
+.tab {
+    background-color: aqua;
+    padding: 12px;
+    margin: 5px;
+    display: inline-block;
+    cursor: pointer;
+    user-select: none;
+}
+
+.veiw {
+    visibility: hidden;
+}
+
+.adveiw {
+    visibility: visible;
+    color: red;
+}
